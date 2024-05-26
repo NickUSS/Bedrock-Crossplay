@@ -1,0 +1,4 @@
+Bedrock-Prefix: "."
+Allow-Bedrock: true
+Allow-Java: true
+Disconnect-Message: "Pues el que ponga"

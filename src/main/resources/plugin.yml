@@ -1,0 +1,9 @@
+name: BedrockCrossplay
+version: '${project.version}'
+main: org.nicolas.crossplay.Main
+api-version: '1.20'
+commands:
+  crossreload:
+    description: Reloads the Crossplay configuration
+    usage: /crossreload
+author: Emojia2

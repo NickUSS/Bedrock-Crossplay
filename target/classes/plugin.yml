@@ -1,0 +1,9 @@
+name: crossplay
+version: '1.0-SNAPSHOT'
+main: org.nicolas.crossplay.Main
+api-version: '1.20'
+commands:
+  crossreload:
+    description: Reloads the Crossplay configuration
+    usage: /crossreload
+author: Emojia2
